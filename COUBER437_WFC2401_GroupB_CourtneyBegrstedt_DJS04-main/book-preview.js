@@ -74,3 +74,4 @@ class BookPreview extends HTMLElement {
 }
 
 customElements.define('book-preview', BookPreview);
+    
